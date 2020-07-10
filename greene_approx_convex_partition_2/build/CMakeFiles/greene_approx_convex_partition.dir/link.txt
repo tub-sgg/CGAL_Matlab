@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -DMX_COMPAT_32 -DMATLAB_MEX_FILE -O3 -DNDEBUG CMakeFiles/greene_approx_convex_partition.dir/greene_approx_convex_partition.cpp.o -o greene_approx_convex_partition  /usr/lib/x86_64-linux-gnu/libgmpxx.so /usr/lib/x86_64-linux-gnu/libmpfr.so /usr/lib/x86_64-linux-gnu/libgmp.so 

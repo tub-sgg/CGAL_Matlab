@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgreene_approx_convex_partition.a  CMakeFiles/greene_approx_convex_partition.dir/greene_approx_convex_partition.cpp.o
+/usr/bin/ranlib libgreene_approx_convex_partition.a

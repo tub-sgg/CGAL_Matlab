@@ -1,0 +1,19 @@
+/snap/clion/114/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/alxlee/Documents/TEST_CODE/Cgal_matlab/CGAL-matlab/greene_approx_convex_partition_2
+-- Using header-only CGAL
+-- Targetting Unix Makefiles
+-- Using /usr/bin/c++ compiler.
+-- Found Boost: /usr/local/include (found suitable version "1.66.0", minimum required is "1.48")  
+-- Boost include dirs: /usr/local/include
+-- Boost libraries:    
+-- Found Boost: /usr/local/include (found suitable version "1.66.0", minimum required is "1.48") found components: thread system chrono date_time atomic 
+-- Using gcc version 4 or later. Adding -frounding-math
+-- Build type: Release
+-- USING CXXFLAGS = ' -O3 -DNDEBUG'
+-- USING EXEFLAGS = ' '
+-- Requested component: Core
+-- Requested component: MPFR
+-- Requested component: GMPXX
+-- Requested component: GMP
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/alxlee/Documents/TEST_CODE/Cgal_matlab/CGAL-matlab/greene_approx_convex_partition_2/cmake-build-debug

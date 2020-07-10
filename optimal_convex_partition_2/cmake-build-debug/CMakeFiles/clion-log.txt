@@ -1,0 +1,13 @@
+/snap/clion/114/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/alxlee/Documents/TEST_CODE/Cgal_matlab/CGAL-matlab/optimal_convex_partition_2
+-- Using header-only CGAL
+-- Targetting Unix Makefiles
+-- Using /usr/bin/c++ compiler.
+-- Boost include dirs: /usr/local/include
+-- Boost libraries:    
+-- Using gcc version 4 or later. Adding -frounding-math
+-- [MATLAB] Matlab root folders are UNKNOWN;9.8;/home/alxlee/Documents/Matlab
+-- [MATLAB] Current version is 9.8 located /home/alxlee/Documents/Matlab
+-- [MATLAB] [DEBUG]_matlab_lib_prefix_for_search = lib | _matlab_lib_dir_for_search = /home/alxlee/Documents/Matlab/bin/glnxa64;/home/alxlee/Documents/Matlab/extern/bin/glnxa64
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/alxlee/Documents/TEST_CODE/Cgal_matlab/CGAL-matlab/optimal_convex_partition_2/cmake-build-debug
