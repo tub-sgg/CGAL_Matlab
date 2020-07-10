@@ -11,10 +11,15 @@ set(Matlab_INCLUDE_DIRS ${Matlab_ROOT_DIR}/extern/include)
 set(Matlab_MEX_LIBRARY ${Matlab_ROOT_DIR}/bin/glnxa64/libmex.so)
 set(Matlab_MEX_EXTENSION "mexa64")
 set(Matlab_MX_LIBRARY ${Matlab_ROOT_DIR}/bin/glnxa64/libmx.so)
+set(MATLAB_ENG_LIBRARY ${Matlab_ROOT_DIR}/bin/glnxa64/libeng.so)
+set(MATLAB_LIBRARIES ${Matlab_ROOT_DIR}/bin/glnxa64)
+set(MATLAB_MAT_LIBRARY ${Matlab_ROOT_DIR}/bin/glnxa64/libmat.so)
 
 set(MEX_SAVE_PATH "${CMAKE_SOURCE_DIR}")
 set(CMAKE_BUILD_TYPE "Release")
 set(MATLAB_FIND_DEBUG TRUE)
+
+
 find_package(Matlab REQUIRED)
 matlab_add_mex(
 		NAME ${PROJECT_NAME}
